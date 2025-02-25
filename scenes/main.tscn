@@ -1,0 +1,8 @@
+[gd_scene load_steps=3 format=3 uid="uid://beiq65tg3rem7"]
+
+[ext_resource type="Script" path="res://scripts/main.gd" id="1_xo85p"]
+[ext_resource type="Resource" uid="uid://dihiajhpcdhlv" path="res://resources/int_variable.tres" id="2_ou0wx"]
+
+[node name="Main" type="Node2D"]
+script = ExtResource("1_xo85p")
+score_variable = ExtResource("2_ou0wx")
